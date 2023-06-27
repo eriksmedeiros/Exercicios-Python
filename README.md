@@ -1,1 +1,2 @@
-# Exerc-cios-Python
+#  Pensamento Computacional 
+Exercícios propostos na matéria de Pensamento Computacional
