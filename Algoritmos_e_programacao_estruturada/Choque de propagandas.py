@@ -1,0 +1,1 @@
+x1 = float(input('Digite a coordenada X1'))
